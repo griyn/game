@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T03:01:25.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="cnvig2wBaKpQVpY5wwbd" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T15:33:15.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="bLbdeA2q5fix1A8rKqp9" version="14.4.4" type="github">
   <diagram id="zqatgtqVmQLryy7mBaCC" name="Page-1">
-    <mxGraphModel dx="1422" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="Qgsl-f7vMEq5jR0HELyn-3" value="Main Layer" parent="0" />
@@ -344,7 +344,7 @@
         <mxCell id="_wN-4Ur_j2GiYh_GK4b8-9" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/8/84/bnu9mxqowmpy3o2mn0a3t8kmtpe4f40.png/40px-%E7%9F%B3%E5%A2%A8%E7%83%AF.png;" parent="Qgsl-f7vMEq5jR0HELyn-3" vertex="1">
           <mxGeometry x="860" y="700" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_wN-4Ur_j2GiYh_GK4b8-10" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/2/2d/7bya5jjq7fg5myd5qo1tdxb1ngulgbl.png/40px-%E7%B2%92%E5%AD%90%E5%AE%B9%E5%99%A8.png;" parent="Qgsl-f7vMEq5jR0HELyn-3" vertex="1">
+        <mxCell id="_wN-4Ur_j2GiYh_GK4b8-10" value="1&#xa;有高效" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/2/2d/7bya5jjq7fg5myd5qo1tdxb1ngulgbl.png/40px-%E7%B2%92%E5%AD%90%E5%AE%B9%E5%99%A8.png;" parent="Qgsl-f7vMEq5jR0HELyn-3" vertex="1">
           <mxGeometry x="980" y="620" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_wN-4Ur_j2GiYh_GK4b8-14" value="奇异物质" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Qgsl-f7vMEq5jR0HELyn-3" vertex="1">
@@ -454,7 +454,7 @@
             <mxPoint x="1350" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_wN-4Ur_j2GiYh_GK4b8-48" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/c/c5/bqxpplt6m423p8l3u2zrxt0dtoo94nk.png/40px-%E5%8D%A1%E8%A5%BF%E7%B1%B3%E5%B0%94%E6%99%B6%E4%BD%93.png;" parent="Qgsl-f7vMEq5jR0HELyn-3" vertex="1">
+        <mxCell id="_wN-4Ur_j2GiYh_GK4b8-48" value="1&#xa;有高效" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/c/c5/bqxpplt6m423p8l3u2zrxt0dtoo94nk.png/40px-%E5%8D%A1%E8%A5%BF%E7%B1%B3%E5%B0%94%E6%99%B6%E4%BD%93.png;" parent="Qgsl-f7vMEq5jR0HELyn-3" vertex="1">
           <mxGeometry x="1295" y="1440" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_wN-4Ur_j2GiYh_GK4b8-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Qgsl-f7vMEq5jR0HELyn-3" source="_wN-4Ur_j2GiYh_GK4b8-49" target="_wN-4Ur_j2GiYh_GK4b8-48" edge="1">
@@ -500,6 +500,139 @@
         </mxCell>
         <mxCell id="WyRXhm2pjT4cZs4L0uJR-4" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/e/e8/kf23prmqqzw3tld0kwp0ypfx96du5c3.png/40px-%E8%B6%85%E7%BA%A7%E7%A3%81%E5%9C%BA%E7%8E%AF.png;" parent="Qgsl-f7vMEq5jR0HELyn-3" vertex="1">
           <mxGeometry x="390" y="1050" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-1" value="星际供应：Eta&lt;br&gt;刺笋矿脉&lt;br&gt;有机晶体&lt;br&gt;分型硅&lt;br&gt;可燃冰" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="-110" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-2" value="太阳帆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="40" y="1250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-3" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/3/39/jsqq9mhv7j9xpglts10jflwglf6hf9m.png/40px-%E5%A4%AA%E9%98%B3%E5%B8%86.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="280" y="1440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-4" target="zWltNyuY0I88nwN5Z348-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-4" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/9/9a/n602c28tk9g8lgkge4fgnclfc5amwzp.png/40px-%E5%85%89%E5%AD%90%E5%90%88%E5%B9%B6%E5%99%A8.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="160" y="1390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-5" target="zWltNyuY0I88nwN5Z348-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-5" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/8/84/bnu9mxqowmpy3o2mn0a3t8kmtpe4f40.png/40px-%E7%9F%B3%E5%A2%A8%E7%83%AF.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="160" y="1510" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-8" target="zWltNyuY0I88nwN5Z348-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-8" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/a/a6/ehqjgl0f1i7ar6frvf1vkvo93sk3zzr.png/40px-%E7%94%B5%E8%B7%AF%E6%9D%BF.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="70" y="1290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-9" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/b/b3/m86r4lzrszkvn2ijc208exy92i6abys.png/40px-%E6%A3%B1%E9%95%9C.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="-20" y="1390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-10" target="zWltNyuY0I88nwN5Z348-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-10" value="3" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/0/04/70ai2r2llinr8r2q6p0em5czefa33xb.png/40px-%E7%8E%BB%E7%92%83.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="-110" y="1390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-12" target="zWltNyuY0I88nwN5Z348-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-12" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/b/b3/m86r4lzrszkvn2ijc208exy92i6abys.png/40px-%E6%A3%B1%E9%95%9C.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="70" y="1390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-17" value="4" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/b/b3/ry1i288kc8lnpp3xaindcdhoajlrt0v.png/40px-%E9%92%9B%E5%90%88%E9%87%91.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="50" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-18" value="框架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="60" y="1610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-19" target="zWltNyuY0I88nwN5Z348-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-19" value="4" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/2/20/r17nghz05oko9qnemth86950je8xl8b.png/40px-%E9%92%9B%E5%9D%97.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="-80" y="1670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-20" value="4" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/2/28/cu8321il7bcki0r66ui7gz9vl1bwv8c.png/40px-%E9%92%A2%E6%9D%90.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="-80" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-21" target="zWltNyuY0I88nwN5Z348-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-21" value="8" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/6/69/b2bml1uzqovznm139n1k336xpx39m86.png/40px-%E7%A1%AB%E9%85%B8.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="-80" y="1870" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-25" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/3/38/mfrjzbf00pjgmztu04n3aiu9aungfr8.png/40px-%E6%A1%86%E6%9E%B6%E6%9D%90%E6%96%99.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="280" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-26" target="zWltNyuY0I88nwN5Z348-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-26" value="4" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/1/16/qc257ypgonmtasryondmaybu6mvn4jp.png/40px-%E7%A2%B3%E7%BA%B3%E7%B1%B3%E7%AE%A1.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="150" y="1670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-27" target="zWltNyuY0I88nwN5Z348-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-27" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/9/9b/qvcgdp4y8xoxgp8fwmr450t5edby863.png/40px-%E9%AB%98%E7%BA%AF%E7%A1%85%E5%9D%97.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="150" y="1870" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-28" target="zWltNyuY0I88nwN5Z348-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-28" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/b/b3/ry1i288kc8lnpp3xaindcdhoajlrt0v.png/40px-%E9%92%9B%E5%90%88%E9%87%91.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="150" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-32" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/5/57/ityox56nvwxzp7z9x4n0gqkmsi0f18s.png/40px-%E6%88%B4%E6%A3%AE%E7%90%83%E7%BB%84%E4%BB%B6.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="530" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-33" target="zWltNyuY0I88nwN5Z348-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-33" value="3" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/3/39/jsqq9mhv7j9xpglts10jflwglf6hf9m.png/40px-%E5%A4%AA%E9%98%B3%E5%B8%86.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="400" y="1670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-34" target="zWltNyuY0I88nwN5Z348-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-34" value="3" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/2/24/37znav7t5khlxvcenj9ypandzepg68y.png/40px-%E5%A4%84%E7%90%86%E5%99%A8.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="400" y="1870" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-35" target="zWltNyuY0I88nwN5Z348-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-35" value="3" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/3/38/mfrjzbf00pjgmztu04n3aiu9aungfr8.png/40px-%E6%A1%86%E6%9E%B6%E6%9D%90%E6%96%99.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="400" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-39" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/3/31/29lvtawlfzxio09q1asoxom9n271byb.png/40px-%E5%B0%8F%E5%9E%8B%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="770" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-40" target="zWltNyuY0I88nwN5Z348-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-40" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/5/57/ityox56nvwxzp7z9x4n0gqkmsi0f18s.png/40px-%E6%88%B4%E6%A3%AE%E7%90%83%E7%BB%84%E4%BB%B6.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="640" y="1770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-41" target="zWltNyuY0I88nwN5Z348-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-41" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/2/23/kg40nsms4kui3eq6ej9t4l5gfh0fb3a.png/40px-%E6%B0%98%E6%A0%B8%E7%87%83%E6%96%99%E6%A3%92.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="640" y="1670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Qgsl-f7vMEq5jR0HELyn-3" source="zWltNyuY0I88nwN5Z348-42" target="zWltNyuY0I88nwN5Z348-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zWltNyuY0I88nwN5Z348-42" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://patchwiki.biligame.com/images/dsp/thumb/d/d5/qy5or094fnwpnh8sv5stdl5yda2w8i6.png/40px-%E9%87%8F%E5%AD%90%E8%8A%AF%E7%89%87.png;" vertex="1" parent="Qgsl-f7vMEq5jR0HELyn-3">
+          <mxGeometry x="640" y="1870" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
         <mxCell id="Qgsl-f7vMEq5jR0HELyn-11" value="铁矿区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
